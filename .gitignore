@@ -27,11 +27,3 @@ credentials.json
 secrets.yml
 *.key
 *.pem
-
-# Temporary files
-*.tmp
-*.temp
-~*
-
-# Webflow exports
-webflow-export/
