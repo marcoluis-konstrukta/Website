@@ -5,3 +5,13 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+
+
+// import type { NextConfig } from "next"; // Removed because it's only valid in TypeScript files
+
+import { defineCloudflareConfig } from "@opennextjs/cloudflare";
+
+export default defineCloudflareConfig({
+});
+
