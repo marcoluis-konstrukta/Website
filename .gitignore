@@ -27,3 +27,4 @@ credentials.json
 secrets.yml
 *.key
 *.pem
+seo/.astro/
